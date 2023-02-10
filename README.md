@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Student from India</h3>
 
 
-<img src="[[https://yolabs.in/coding-for-kids/](https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU)" alt="" height="400" align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU" alt="" height="400" align="center">
 
 
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
