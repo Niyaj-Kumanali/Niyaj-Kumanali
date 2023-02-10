@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
-<img src="https://yolabs.in/coding-for-kids/" alt="" width="600" height="400">
+<img src="[https://yolabs.in/coding-for-kids/](https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg)" alt="" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20views&color=0e75b6&style=flat" alt="niyaj-kumanali" /> </p>
 
