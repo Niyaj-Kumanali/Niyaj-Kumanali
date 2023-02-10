@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Student from India</h3>
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU" alt="" height="500" width="800" text-align='center'>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU" alt="" height="500" width="800" >
 
 
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
