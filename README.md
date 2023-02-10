@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
+
+
 <img src="[[https://yolabs.in/coding-for-kids/](https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU)" alt="" height="400" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20views&color=0e75b6&style=flat" alt="niyaj-kumanali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyaj-kumanali" alt="niyaj-kumanali" /></a> </p>
 
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
 
