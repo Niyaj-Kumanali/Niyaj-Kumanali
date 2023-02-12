@@ -35,7 +35,7 @@
 <a href="https://github.com/Niyaj-Kumanali" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="linkedin.com/in/niyaj-kumanali" target="_blank">
+<a href="https://www.linkedin.com/in/niyaj-kumanali-80ba3a246/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/niyaz.kumanali" target="_blank">
