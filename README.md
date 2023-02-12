@@ -1,4 +1,4 @@
-![logo](Niyaz-banner.png)
+![logo](Niyazbanner.png)
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
 
