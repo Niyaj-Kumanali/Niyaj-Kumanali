@@ -5,7 +5,7 @@
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU" alt="" height="500" width="800" >
-- 🧑‍🎓 I'm currently studying **Computer Science**
+- 🧑‍🎓 I'm currently studying **Computer Science*
 
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
 
