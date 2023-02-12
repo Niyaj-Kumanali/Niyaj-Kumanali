@@ -1,5 +1,4 @@
 ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/Niyaz%20banner.png)
-
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
 
@@ -7,14 +6,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🎓 I'm currently studying **Computer Science**
-
+- 💼 I pursued a **Bachelor's degree** in **Computer Science & Engineering**
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
-
 - 🌱 I’m currently learning **Java, DSA, Front-End Desiging**
-
 - 📫 How to reach me **iamniyazahmad777@gmail.com**
-
 - 😁 Fun Fact **I use tabs over spaces**
 
 
