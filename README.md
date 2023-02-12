@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 💼 I pursued a **Bachelor's degree** in **Computer Science & Engineering**
+- 💼 I pursuing a **Bachelor's degree** in **Computer Science & Engineering**
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
 - 🌱 I’m currently learning **Java, DSA, Front-End Desiging**
 - 📫 How to reach me **iamniyazahmad777@gmail.com**
