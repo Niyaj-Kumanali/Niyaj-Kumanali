@@ -48,10 +48,11 @@
 <br/>
 
 <!-- Most Languages used -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact" alt="niyaj-kumanali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact" alt="niyaj-kumanali" /></p>
 
 <!-- Github stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en" alt="niyaj-kumanali" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en" alt="niyaj-kumanali" /></p>
 
+<br/>
 <!-- Github streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali&" alt="niyaj-kumanali" /></p>
