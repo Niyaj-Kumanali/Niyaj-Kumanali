@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/Niyaz%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
