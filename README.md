@@ -3,15 +3,19 @@
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
 
+<img align='right' src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" width="40%">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU" alt="" height="500" width="800" >
-- 🧑‍🎓 I'm currently studying **Computer Science*
+**Talking about Personal Stuffs:**
+
+- 👨‍🎓 I'm currently studying **Computer Science**
 
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
 
 - 🌱 I’m currently learning **Java, DSA, Front-End Desiging**
 
 - 📫 How to reach me **iamniyazahmad777@gmail.com**
+
+- 😁 Fun Fact **I use tabs over spaces**
 
 
 <h3 align="left">Languages and Tools:</h3>
