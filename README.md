@@ -5,20 +5,23 @@
 <img align='right' src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" width="40%">
 
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20views&color=0e75b6&style=flat" alt="niyaj-kumanali" /> </p>
 
 **Talking about Personal Stuffs:**
 
 - 💼 I pursuing a **Bachelor's degree** in **Computer Science & Engineering**
 - 🔭 I’m currently working on **Intelligent Video Interview Agent used to predict communication skill and personality traits**
 - 🌱 I’m currently learning **Java, DSA, Front-End Desiging**
-- 📫 How to reach me **iamniyazahmad777@gmail.com**
+- 📫 How to reach me **niyajkumanali@gmail.com**
 - 😁 Fun Fact **I use tabs over spaces**
 
 <br/>
 
+
+
+<!-- Languaged Used -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.shutterstock.com/image-vector/c-language-logo-simple-colours-600w-2113921046.jpg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
@@ -30,22 +33,19 @@
 </p>
 <br/>
 
+
+<!-- Connect with me -->
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/Niyaj-Kumanali" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo Color=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/niyaj-kumanali-80ba3a246/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/niyaz.kumanali" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/ili_______n_i_y_a_z_______ili/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="left">
+<a href="https://linkedin.com/in/niyaj-kumanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyaj-kumanali" height="30" width="40" /></a>
+<a href="https://fb.com/niyaj.kumanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niyaj.kumanali" height="30" width="40" /></a>
+<a href="https://instagram.com/ili_______n_i_y_a_z_______ili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ili_______n_i_y_a_z_______ili" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/o0_niyaz_0o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/o0_niyaz_0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
+</p>
 <br/>
+
 
 <div>
 <!-- Most Languages used -->
