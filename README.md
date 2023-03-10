@@ -43,7 +43,7 @@
 <a href="https://instagram.com/ili_______n_i_y_a_z_______ili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ili_______n_i_y_a_z_______ili" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/o0_niyaz_0o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/o0_niyaz_0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png?f=webp&w=128" alt="o0_niyaz_0o" height="30" width="40" /></a>
 </p>
 <br/>
 
