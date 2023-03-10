@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png) -->
 <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png" width="100%"/>
 <!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
-<h2 align="center">A passionate Student from India</h2>
+<h1 align="center">A passionate Student from India</h1>
 
 <img align='right' src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" width="40%">
 
