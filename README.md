@@ -1,5 +1,5 @@
-![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png)
-<!-- <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png" width="100%"/> -->
+<!-- ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png) -->
+<img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png" width="100%"/>
 <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1>
 <h3 align="center">A passionate Student from India</h3>
 
