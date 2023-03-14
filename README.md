@@ -1,10 +1,10 @@
 <!-- ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png) -->
-<img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png" width="100%"/>
+<img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png?theme=radical" width="100%"/>
 <!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
 <h1 align="center">A passionate Student from India</h1>
 
 ### ✍️ Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodingdark.gif" width="40%">
