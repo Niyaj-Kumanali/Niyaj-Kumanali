@@ -4,7 +4,7 @@
 <h1 align="center">A passionate Student from India</h1>
 
 ### ✍️ Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=adaptable"/>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <img align='right' src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" width="40%">
@@ -55,15 +55,15 @@
 
 <div>
 <!-- Most Languages used -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact" alt="niyaj-kumanali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact&theme=radical" alt="niyaj-kumanali" /></p>
 
 <!-- Github stats -->
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en" alt="niyaj-kumanali" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en&theme=radical" alt="niyaj-kumanali" /></p>
 </div>
 
 <br/>
 <!-- Github streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali&" alt="niyaj-kumanali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali&theme=radical" alt="niyaj-kumanali" /></p>
 
 <!-- <br clear="both">
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" /> -->
