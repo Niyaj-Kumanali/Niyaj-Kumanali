@@ -4,7 +4,7 @@
 <h1 align="center">A passionate Student from India</h1>
 
 ### ✍️ Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&b=transparent"/>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodingtransparent.gif" width="40%">
@@ -65,5 +65,5 @@
 <!-- Github streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali&theme=radical" alt="niyaj-kumanali" /></p>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+<!-- <br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" /> -->
