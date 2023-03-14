@@ -49,7 +49,7 @@
 <a href="https://instagram.com/ili_______n_i_y_a_z_______ili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ili_______n_i_y_a_z_______ili" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/o0_niyaz_0o" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/codechef.png" alt="o0_niyaz_0o" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/o0_niyaz_0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="o0_niyaz_0o" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3630154-3031286.png?f=webp&w=256" alt="o0_niyaz_0o" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3550772-2970357.png?f=webp&w=256" alt="o0_niyaz_0o" height="30" width="30" /></a>
 </p>
 <br/>
 
