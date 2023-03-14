@@ -7,7 +7,7 @@
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-<img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodingdark.gif" width="40%">
+<img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodinggray.gif" width="40%">
 <!-- <img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodinglight.gif" width="40%"> -->
 
 <br/>
