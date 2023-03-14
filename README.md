@@ -4,7 +4,7 @@
 <h1 align="center">A passionate Student from India</h1>
 
 ### ✍️ Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=adaptable" width="80%"/>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=adaptable"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <img align='right' src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" width="40%">
