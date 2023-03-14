@@ -23,6 +23,7 @@
 
 
 
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <!-- Languaged Used -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -62,3 +63,6 @@
 <br/>
 <!-- Github streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali&" alt="niyaj-kumanali" /></p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
