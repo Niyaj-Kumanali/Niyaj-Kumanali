@@ -64,5 +64,5 @@
 <!-- Github streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali&" alt="niyaj-kumanali" /></p>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+<!-- <br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" /> -->
