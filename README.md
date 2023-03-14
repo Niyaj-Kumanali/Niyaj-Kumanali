@@ -4,11 +4,10 @@
 <h1 align="center">A passionate Student from India</h1>
 
 ### ✍️ Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodingtransparent.gif" width="40%">
-<!-- <img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodinglight.gif" width="40%"> -->
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20views&color=0e75b6&style=flat" alt="niyaj-kumanali" /> </p>
