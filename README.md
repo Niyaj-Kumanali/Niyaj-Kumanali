@@ -3,6 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
 <h1 align="center">A passionate Student from India</h1>
 <hr/>
+
 ### ✍️ Quote
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
@@ -45,7 +46,7 @@
 
 
 <!-- Connect with me -->
-## Connect with me  
+<h3>Connect with me </h3> 
 <p align="center">
 <a href="https://linkedin.com/in/niyaj-kumanali" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyaj-kumanali" width="40" padding="5px"/></a>
 <a href="https://fb.com/niyaj.kumanali" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niyaj.kumanali" width="40" /></a>
@@ -57,7 +58,7 @@
 
 
 <!-- <br/> -->
-<hr/>
+<!-- <hr/> -->
 
 
 <div>
