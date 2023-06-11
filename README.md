@@ -2,14 +2,14 @@
 <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/>
 <!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
 <h1 align="center">A passionate Student from India</h1>
-
+<hr/>
 ### ✍️ Quote
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodingtransparent.gif" width="40%">
 
-<hr/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20views&color=0e75b6&style=flat" alt="niyaj-kumanali" /> </p>
 
 <h3>Talking about Personal Stuffs:</h3>
@@ -20,7 +20,7 @@
 - 📫 How to reach me **niyajkumanali@gmail.com**
 - 😁 Fun Fact **I use tabs over spaces**
 
-<hr/>
+<br/>
 
 
 
@@ -41,7 +41,7 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="60"/> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="60"/> </a>
 </p>
-<hr/>
+<br/>
 
 
 <!-- Connect with me -->
@@ -68,6 +68,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en" alt="niyaj-kumanali" /></p>
 </div>
 
-<hr/>
+<!-- <br/> -->
 <!-- Github streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali" alt="niyaj-kumanali" /></p>
