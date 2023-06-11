@@ -61,7 +61,7 @@
 
 <div>
 <!-- Most Languages used -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact" alt="niyaj-kumanali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact" alt="niyaj-kumanali" width="355px"/></p>
 
 <!-- Github stats -->
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en" alt="niyaj-kumanali" /></p>
