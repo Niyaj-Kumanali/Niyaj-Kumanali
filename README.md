@@ -27,7 +27,7 @@
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <!-- Languaged Used -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" margin-right="10px"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="pandas" width="70"/> </a> 
@@ -38,6 +38,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="70"/> </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="70"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="70"/> </a>
 </p>
 <br/>
 
