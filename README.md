@@ -15,8 +15,8 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 💼 I pursuing a **Bachelor's degree** in **Computer Science & Engineering**
-- 🔭 I’m currently working on project **Intelligent Video Interview Agent**
+- 💼 I have successfully graduated with a **Bachelor's degree** in **Computer Science & Engineering**
+- 🔭 I’m worked on project **Intelligent Video Interview Agent**
 - 🌱 I’m currently learning **Java, DSA, Front-End Desiging**
 - 📫 How to reach me **niyajkumanali@gmail.com**
 - 😁 Fun Fact **I use tabs over spaces**
