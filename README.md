@@ -29,18 +29,18 @@
 <!-- Languaged Used -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="pandas" width="60"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">&nbsp; <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="pandas" width="60"/> </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="60"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">&nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="scikit_learn" width="80"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">&nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="60"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="60"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="60"/> </a>
+  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
+   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/>
+   &nbsp;<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="pandas" width="60"/>
+  &nbsp; <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="pandas" width="60"/> </a> 
+   &nbsp;<img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="60"/>
+  &nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60"/> </a> 
+   &nbsp;<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="scikit_learn" width="80"/>
+  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/>
+  &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/>
+  &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="60"/>
+   &nbsp;<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="60"/>
+  &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="60"/>
 </p>
 <br/>
 
