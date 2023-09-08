@@ -28,33 +28,54 @@
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <!-- Languaged Used -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
-   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/>
-   &nbsp;<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="pandas" width="60"/>
-  &nbsp; <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="pandas" width="60"/> </a> 
-   &nbsp;<img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="60"/>
-  &nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60"/> </a> 
-   &nbsp;<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="scikit_learn" width="80"/>
-  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/>
-  &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/>
-  &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="60"/>
-   &nbsp;<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="60"/>
-  &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="60"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+</div>
 <br/>
 
 
 <!-- Connect with me -->
 <h3>Connect with me </h3> 
 <p align="center">
-<a href="https://linkedin.com/in/niyaj-kumanali" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyaj-kumanali" width="40" padding="5px"/></a>
-<a href="https://fb.com/niyaj.kumanali" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niyaj.kumanali" width="40" /></a>
-<a href="https://instagram.com/ili_______n_i_y_a_z_______ili" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ili_______n_i_y_a_z_______ili" width="40" /></a>
-<a href="https://www.codechef.com/users/o0_niyaz_0o" target="blank">&nbsp;&nbsp;<img align="center" src="https://img.icons8.com/fluency/256/codechef.png" alt="o0_niyaz_0o" width="40" /></a>
-<a href="https://www.hackerrank.com/o0_niyaz_0o" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="o0_niyaz_0o" width="40" /></a>
-<a href="https://www.leetcode.com/o0_niyaz_0o" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3550772-2970357.png?f=webp&w=256" alt="o0_niyaz_0o" width="50" /></a>
+
 </p>
+<div align="left">
+   <a href="https://linkedin.com/in/niyaj-kumanali" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  /></a>
+  <a href="https://fb.com/niyaj.kumanali" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="50" alt="facebook logo"  /></a>
+  <a href="https://instagram.com/ili_______n_i_y_a_z_______ili" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  /></a>
+  <a href="https://www.codechef.com/users/o0_niyaz_0o" target="blank"><img src="https://img.icons8.com/fluency/256/codechef.png" alt="o0_niyaz_0o"  width="60" height="50" /></a>
+  <a href="https://www.hackerrank.com/o0_niyaz_0o" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="50" alt="hackerrank logo"  /></a>
+  <a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3550772-2970357.png?f=webp&w=256" alt="o0_niyaz_0o" width="60" height="50" /></a>
+  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  /></a>
+  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  /></a>
+  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="70" height="50" alt="codesandbox logo"  /></a>
+  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="70" height="50" alt="codepen logo"  /></a>
+  
+  
+  
+  
+  
+  
+  
+</div>
 
 
 <!-- <br/> -->
@@ -72,3 +93,7 @@
 <!-- <br/> -->
 <!-- Github streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali" alt="niyaj-kumanali" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Niyaj-Kumanali/Niyaj-Kumanali/output/snake.svg" alt="Snake animation" />
