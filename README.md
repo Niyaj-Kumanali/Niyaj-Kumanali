@@ -1,8 +1,7 @@
 <!-- ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png) -->
 <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/>
 <!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
-<h1 align="center">A passionate Student from India</h1>
-<hr/>
+<h1 align="center">A Software Engineer from India</h1>
 
 ### ✍️ Quote
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
