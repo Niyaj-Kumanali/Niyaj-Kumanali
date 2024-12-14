@@ -15,11 +15,10 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 💼 I have successfully graduated with a **Bachelor's degree** in **Computer Science & Engineering**
-- 🔭 I’m worked on project **Intelligent Video Interview Agent**
-- 🌱 I’m currently learning **Java, DSA, Front-End Desiging**
+- 💼 I have successfully graduated with a **Bachelor's degree** in **Computer Science & Engineering** working as **Software Engineer**.
+- 🔭 I’m worked on project **HVAC Monitoring**
+- 🌱 I’m currently learning **Spring Framework and Data Analytics**
 - 📫 How to reach me **niyajkumanali@gmail.com**
-- 😁 Fun Fact **I use tabs over spaces**
 
 <br/>
 
