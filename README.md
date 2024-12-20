@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png) -->
 <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/>
 <!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
-<h1 align="center">A Software Engineer from India</h1>
+<h3 align="center">A passionate Full Stack developer and Data Analyst from India</h3>
 
 ### ✍️ Quote
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
@@ -15,7 +15,6 @@
 <h3>Talking about Personal Stuffs:</h3>
 
 - 💼 I have successfully graduated with a **Bachelor's degree** in **Computer Science & Engineering** working as **Software Engineer**.
-- 🔭 I’m worked on project **HVAC Monitoring**
 - 🌱 I’m currently learning **Spring Framework and Data Analytics**
 - 📫 How to reach me **niyajkumanali@gmail.com**
 
