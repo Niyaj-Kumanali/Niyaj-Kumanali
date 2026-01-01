@@ -1,4 +1,4 @@
-<img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/>
+<!-- <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/> -->
 
 ### 👋 Hi, I’m Niyaj Kumanali  
 **Full Stack Developer | Distributed Systems | Data Platforms**
