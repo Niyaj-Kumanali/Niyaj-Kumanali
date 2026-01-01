@@ -1,74 +1,110 @@
-<!-- ![logo](https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.png) -->
 <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/>
-<!-- <h1 align="center">Hi 👋, I'm Niyaj Kumanali</h1> -->
-<h3 align="center">A passionate Full Stack developer and Data Analyst from India</h3>
 
-### ✍️ Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+### 👋 Hi, I’m Niyaj Kumanali  
+**Full Stack Developer | Distributed Systems | Data Platforms**
 
-<img align='right' src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/animatedcodingtransparent.gif" width="40%">
+I’m a **Computer Science & Engineering graduate** and **Software Engineer** who enjoys designing scalable backend systems, clean APIs, and data-driven platforms. I work at the intersection of **software engineering, system design, and analytics**, focusing on performance, reliability, and maintainability.
 
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20views&color=0e75b6&style=flat" alt="niyaj-kumanali" /> </p>
+- 💼 **What I Build:** Enterprise-grade applications using the **Spring ecosystem**, optimized **SQL**, and event-driven architectures  
+- 🧱 **Core Strengths:** Backend system design, database indexing & query optimization, and secure API design  
+- 🌱 **Currently Learning:** **Distributed systems architecture**, microservices patterns, and platform scalability  
+- 📊 **Data Focus:** ETL pipelines, data processing, and turning raw data into meaningful insights  
+- 🔧 **Engineering Mindset:** Problem-solver with a strong bias for clean design, performance, and long-term scalability  
 
-<h3>Talking about Personal Stuffs:</h3>
-
-- 💼 I have successfully graduated with a **Bachelor's degree** in **Computer Science & Engineering** working as **Software Engineer**.
-- 🌱 I’m currently learning **Spring Framework and Data Analytics**
-- 📫 How to reach me **niyajkumanali@gmail.com**
-
-<br/>
+📫 **Reach me at:** [niyajkumanali@gmail.com](mailto:niyajkumanali@gmail.com)
 
 
-
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<!-- Languaged Used -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://jupyter.org/"  target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
- </a></p>
-<br/>
-
-
-<!-- Connect with me -->
-<h3>Connect with me </h3> 
 <p align="center">
-
+  <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-<div align="left">
-   <a href="https://linkedin.com/in/niyaj-kumanali" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  /></a>
-  <a href="https://fb.com/niyaj.kumanali" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="50" alt="facebook logo"  /></a>
-  <a href="https://instagram.com/ili_______n_i_y_a_z_______ili" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  /></a>
-  <a href="https://www.codechef.com/users/o0_niyaz_0o" target="blank"><img src="https://img.icons8.com/fluency/256/codechef.png" alt="o0_niyaz_0o"  width="60" height="50" /></a>
-  <a href="https://www.hackerrank.com/o0_niyaz_0o" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="50" alt="hackerrank logo"  /></a>
-  <a href="https://www.leetcode.com/o0_niyaz_0o" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3550772-2970357.png?f=webp&w=256" alt="o0_niyaz_0o" width="60" height="50" /></a>
-  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  /></a>
-  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  /></a>
-  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="70" height="50" alt="codesandbox logo"  /></a>
-  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="70" height="50" alt="codepen logo"  /></a>
-  
-  
-  
-  
-  
-  
-  
-</div>
 
 
-<!-- <br/> -->
-<!-- <hr/> -->
+---
+## 🛠️ Tech Stack
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" />
+</p>
+
+### 🎨 Frontend & UI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+</p>
+
+### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MSSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="40" alt="InfluxDB" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+### 📊 Data & Analytics
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
+  <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="Databricks" />
+  <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_32_color.svg" height="40" alt="Microsoft Fabric" />
+</p>
+
+---
 
 
-<div>
-<!-- Most Languages used -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niyaj-kumanali&show_icons=true&locale=en&layout=compact" alt="niyaj-kumanali" width="355px"/></p>
+## 🔗 Connect With Me
 
-<!-- Github stats -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&show_icons=true&locale=en" alt="niyaj-kumanali" /></p>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/niyaj-kumanali" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://leetcode.com/o0_niyaz_0o" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+<a href="https://www.hackerrank.com/o0_niyaz_0o" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+<a href="mailto:niyajkumanali@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
-<!-- <br/> -->
-<!-- Github streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyaj-kumanali" alt="niyaj-kumanali" /></p>
+---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=niyaj-kumanali&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=niyaj-kumanali&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niyaj-kumanali&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=niyaj-kumanali&limit=5&theme=default&combine_all_yearly_contributions=true)
+---
+
+### ✨ Quote I Believe In
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
