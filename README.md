@@ -1,12 +1,12 @@
 <!-- <img src="https://github.com/Niyaj-Kumanali/Niyaj-Kumanali/blob/main/NiyajGithub.gif" width="100%"/> -->
 
 ### 👋 Hi, I’m Niyaj Kumanali  
-**Full Stack Developer | Distributed Systems | Data Platforms**
+**Full Stack Developer | Backend/Spring Boot Developer | Data Engineer**
 
-I’m a **Computer Science & Engineering graduate** and **Software Engineer** who enjoys designing scalable backend systems, clean APIs, and data-driven platforms. I work at the intersection of **software engineering, system design, and analytics**, focusing on performance, reliability, and maintainability.
+I’m a **Computer Science & Engineering graduate** and **Software Engineer** who enjoys designing scalable backend systems, clean APIs, and data-driven platforms. I work at the intersection of **software engineering, system design, and database optimization & tuning**, focusing on performance, reliability, and maintainability.
 
 - 💼 **What I Build:** Enterprise-grade applications using the **Spring ecosystem**, optimized **SQL**, and event-driven architectures  
-- 🧱 **Core Strengths:** Backend system design, database indexing & query optimization, and secure API design  
+- 🧱 **Core Strengths:** Backend system design, database tuning & query optimization, and secure API design  
 - 🌱 **Currently Learning:** **Distributed systems architecture**, microservices patterns, and platform scalability  
 - 📊 **Data Focus:** ETL pipelines, data processing, and turning raw data into meaningful insights  
 - 🔧 **Engineering Mindset:** Problem-solver with a strong bias for clean design, performance, and long-term scalability  
@@ -42,7 +42,6 @@ I’m a **Computer Science & Engineering graduate** and **Software Engineer** wh
 ### 🎨 Frontend & UI
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
@@ -62,15 +61,12 @@ I’m a **Computer Science & Engineering graduate** and **Software Engineer** wh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
 ### 📊 Data & Analytics
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark" />
   <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="Databricks" />
   <img src="https://github.com/FabricTools/fabric-icons/blob/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_32_color.svg" height="40" alt="Microsoft Fabric" />
 </p>
