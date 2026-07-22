@@ -13,11 +13,20 @@ I’m a **Computer Science & Engineering graduate** and **Software Engineer** wh
 
 📫 **Reach me at:** [niyajkumanali@gmail.com](mailto:niyajkumanali@gmail.com)
 
+---
+
+## 🌐 Personal Portfolio
+<a href="https://niyazdev.vercel.app/" target="_blank">
+  <img src="niyazdev.png" alt="Niyaj Kumanali Portfolio" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</a>
+
+<p align="center">
+  👉 <strong><a href="https://niyazdev.vercel.app/" target="_blank">Visit my live portfolio at niyazdev.vercel.app</a></strong> 👈
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niyaj-kumanali&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 
 ---
 ## 🛠️ Tech Stack
@@ -73,10 +82,12 @@ I’m a **Computer Science & Engineering graduate** and **Software Engineer** wh
 
 ---
 
-
 ## 🔗 Connect With Me
 
 <p align="left">
+<a href="https://niyazdev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/niyaj-kumanali" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -100,6 +111,7 @@ I’m a **Computer Science & Engineering graduate** and **Software Engineer** wh
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=niyaj-kumanali&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 ---
 
 ### ✨ Quote I Believe In
