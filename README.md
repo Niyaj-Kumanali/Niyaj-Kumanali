@@ -16,9 +16,9 @@ I’m a **Computer Science & Engineering graduate** and **Software Engineer** wh
 ---
 
 ## 🌐 Personal Portfolio
-<a href="https://niyazdev.vercel.app/" target="_blank">
+<!-- <a href="https://niyazdev.vercel.app/" target="_blank">
   <img src="niyazdev.png" alt="Niyaj Kumanali Portfolio" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</a>
+</a> -->
 
 <p align="center">
   👉 <strong><a href="https://niyazdev.vercel.app/" target="_blank">Visit my live portfolio at niyazdev.vercel.app</a></strong> 👈
